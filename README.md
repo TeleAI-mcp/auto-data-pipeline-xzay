@@ -1,2 +1,3 @@
-# auto-data-pipeline-xzay
-A repository to test GitHub automation for issue management
+# Auto Data Pipeline Xzay
+
+A repository to test GitHub automation for issue management.
